@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694247686 source:c:\users\gasty\onedrive\escritorio\utn\arquitectura y sistemas operativos\ejercicio 6 threads tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+
